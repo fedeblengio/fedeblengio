@@ -13,20 +13,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-### About Me
-
-- Building **production web apps** with modern stacks
-- Experienced in **Laravel + Vue.js** ecosystems
-- Holberton School alumni — strong **CS fundamentals**
-- Based in **Montevideo, Uruguay**
-- Currently working on **Consorcio** — a building management platform
-
-<br clear="both"/>
-
----
-
 ### Tech Stack
 
 <div align="center">
@@ -51,20 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-[![Panel Clinica](https://github-readme-stats.vercel.app/api/pin/?username=fedeblengio&repo=panel-clinica-dental&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/fedeblengio/panel-clinica-dental)
-[![SynTech](https://github-readme-stats.vercel.app/api/pin/?username=fedeblengio&repo=SynTech-VueJs-Sitio&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/fedeblengio/SynTech-VueJs-Sitio)
-
-[![Zaluda](https://github-readme-stats.vercel.app/api/pin/?username=fedeblengio&repo=zaluda_front&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/fedeblengio/zaluda_front)
-[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=fedeblengio&repo=BotDiscord&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/fedeblengio/BotDiscord)
 
 </div>
 
@@ -95,14 +67,10 @@
 
 <div align="center">
 
-### Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federicoblengio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedeblengio)
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=100&section=footer" width="100%"/>
 
 </div>
-
